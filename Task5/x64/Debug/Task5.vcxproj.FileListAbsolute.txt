@@ -1,0 +1,2 @@
+D:\C++\Task5\x64\Debug\Task5.exe
+D:\FCS.C++\Task5\x64\Debug\Task5.exe
